@@ -1,0 +1,113 @@
+body{
+    margin-left: 0.5ex;
+    margin-right: 0.5ex;
+}
+.header{
+    width: 100%;
+    background-color:orange;
+    float: left;
+    margin-left: 0.5ex;
+    margin-right: 0.5ex;
+ } 
+.header  h1{
+	color: white;
+	font-family: Rockwell;
+	text-align: center;
+    
+}
+
+
+.content1{
+    width: 100%;
+	height: 100%;
+    background-color:lightsalmon;
+    margin-left: 0.5ex;
+    margin-right: 0.5ex;
+    float: left;
+ } 
+ .content11{
+    width: 100%;
+	height: 1000%;
+    background-color: lightsalmon ; 
+    margin-left: 0.5ex;
+    margin-right: 0.5ex; 
+    float: left;   
+ }
+ .content12{
+    width: 100%;
+	height: 100%;
+    background-color:lightsalmon;
+    margin-left: 0.5ex;
+    margin-right: 0.5ex;
+ }
+ .content2{
+    width: 100%;
+	height: 100%;
+    background-color:white;
+    margin-left: 0.5ex;
+    margin-right: 0.5ex;
+ }
+ 
+ .content3{
+    width: 100%;
+	height: 100%;
+    background-color: lightseagreen; 
+    margin-left: 0.5ex;
+    margin-right: 0.5ex;
+ }
+ 
+ .content4{
+    width: 100%;
+	height: 200%;
+    background-color: lightblue;
+    margin-left: 0.5ex;
+    margin-right: 0.5ex;
+ }
+ 
+
+ .padding {
+    padding-left: 2cm;
+  }
+  
+ .padd {
+    padding-left: 28.44cm;
+  }
+  
+
+
+
+
+ .footer{
+    width: 100%;
+	height: 30%;
+    background-color: dimgray;
+    float: left;
+ } 
+.banner{
+    width: 100%;
+    height: 50%;
+    background-color:grey;
+    float: left;
+    margin-left: 0.5ex;
+}   
+ul {
+    list-style-type: none;
+    margin: 0;  
+    padding: 0;
+    overflow: hidden;
+    background-color: orange;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: blue;
+}  
+
